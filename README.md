@@ -1,3 +1,19 @@
+Simple netflix clone using reactjs and firebase
+
+1. create react app using creat-react-app
+2. layout using flexbox
+3. used tmdb for api
+4. used react-youtube and movie-trailer
+5. used firebase for deployment
+
+firebase commands:
+
+1. firebase login
+2. firebase init
+3. selection of project
+4. npm run build
+5. firebase deploy
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
